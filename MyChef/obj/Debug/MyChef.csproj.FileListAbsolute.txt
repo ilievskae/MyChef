@@ -1,0 +1,11 @@
+C:\Users\Elena\source\repos\MyChef\MyChef\bin\Debug\MyChef.exe.config
+C:\Users\Elena\source\repos\MyChef\MyChef\bin\Debug\MyChef.exe
+C:\Users\Elena\source\repos\MyChef\MyChef\bin\Debug\MyChef.pdb
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.csprojAssemblyReference.cache
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.AddRecepie.resources
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.Form1.resources
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.Properties.Resources.resources
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.csproj.GenerateResource.cache
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.csproj.CoreCompileInputs.cache
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.exe
+C:\Users\Elena\source\repos\MyChef\MyChef\obj\Debug\MyChef.pdb
